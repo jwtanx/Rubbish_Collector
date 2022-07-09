@@ -18,7 +18,8 @@
 7. Install the requirements, update your pip to the latest version if the installation stopped halfway  
    ```pip install -r requirements.txt```
 8. **!!! IMPORTANT : FIRST TIME SETUP ONLY !!!**  
-   ```python ./setup.py```
+   ```python ./setup.py```  
+   If your donwload for the model failed, head to this Google Drive [link](https://drive.google.com/uc?id=1_8bgnMVvRI8wwsBtV9SksVJ2nim5rVoW&export=download) and put the downloaded model pt file into this project directory.
 
 ## INFERENCING
 1.  Start the inferencing on the robot camera  

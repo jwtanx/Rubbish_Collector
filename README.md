@@ -3,7 +3,7 @@
 ## Ubuntu Setup
 1. Open up a terminal and change your directory to a directory that you want the projec to be in.
 2. Clone the project's GitHub here  
-   ```git clone https://github.com/jwtanx/Rubbish_Collector```
+   ```git clone https://github.com/jwtanx/Rubbish_Collector .```
 3. Clone the repo for yolov5  
    ```git clone https://github.com/ultralytics/yolov5```
 4. Make sure you have python version 3.8 or above
@@ -28,7 +28,7 @@
    When first time run, you might see ```requirements: torch!=1.12.0,>=1.7.0 not found and is required by YOLOv5, attempting auto-update...```
 2. To quit, make sure the Python Window is focused and hold the `q` key until the window is exited
 3. It is recommended to deactivate the environment when you want are done with the application  
-   ```source jupiter/bin/deactivate```
+   Type ```deactivate``` to deactivate the envuronment before you quit the terminal
 
 ## More information about Jupiter Robot here
 1. [Jupiter Robot](https://www.lattelrobotics.com/jupiter-robot/) we are working with
